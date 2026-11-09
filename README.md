@@ -6,6 +6,12 @@
 
 > 你的项目是 **ENTP 快速迭代型**：每周换一个新框架，旧功能先放着。
 
+<p align="center">
+  <img src="assets/example-card.png" alt="结果卡片示例" width="420">
+</p>
+
+<p align="center"><sub>示例卡片，项目为虚构</sub></p>
+
 ## 测什么
 
 四个维度，全部来自项目的代码、文档和提交记录：
@@ -60,6 +66,7 @@ SKILL.md                 评估流程与规则
 scripts/collect.py       客观信号统计
 scripts/render_card.py   结果卡片生成
 references/types.json    16 种项目类型
+assets/example-card.png  README 里的示例卡片
 ```
 
 ## License
